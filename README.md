@@ -14,3 +14,5 @@ git commit -m "*message*"
 then switch to master
 git merge *name*
 git push origina master
+
+git pull   (pull down from remote to local)
